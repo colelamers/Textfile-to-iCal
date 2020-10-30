@@ -1,0 +1,4 @@
+﻿  main.cpp
+B:\School\Current Classes\CS371_Advanced OOP Design\Assignments\OpenSourceProject\OSS\main.cpp(66,22): warning C4018: '<': signed/unsigned mismatch
+B:\School\Current Classes\CS371_Advanced OOP Design\Assignments\OpenSourceProject\OSS\main.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
+  OSS.vcxproj -> B:\School\Current Classes\CS371_Advanced OOP Design\Assignments\OpenSourceProject\OSS\Debug\OSS.exe

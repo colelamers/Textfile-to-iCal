@@ -1,0 +1,2 @@
+B:\School\Current Classes\CS371_Advanced OOP Design\Assignments\OpenSourceProject\OSS\Debug\OSS.exe
+B:\School\Current Classes\CS371_Advanced OOP Design\Assignments\OpenSourceProject\OSS\Debug\OSS.pdb
