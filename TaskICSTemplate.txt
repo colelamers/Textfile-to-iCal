@@ -1,0 +1,5 @@
+date (YYYYMMDD),timeStart(24HHMMSS),timeEnd(24HHMMSS),alert (HH, H, M, MM, or d = 30min default),task
+20201031,,1300,,go grocery shopping
+20201102,0800,,1h,doctors appointment
+20201103,,,20m,town hall meeting starts
+20201104,1700,1800,d,election day!
