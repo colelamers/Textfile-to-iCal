@@ -192,8 +192,8 @@ public:
 	}
 };
 
-int main() {
-	const char* tasksFile = "B:\\Syncthing\\TextFiles\\tasks.txt"; //TODO: add a way to get it so the user can change the directory/file, deterimes if it needs to add a file
+int main() {	
+	const char* tasksFile = "B:\\Syncthing\\TextFiles\\TaskICSTemplate.txt"; //TODO: add a way to get it so the user can change the directory/file, deterimes if it needs to add a file
 	const char* icalFile = "B:\\Syncthing\\TextFiles\\icalTasks.ics"; //TODO: add a way to get it so the user can change the directory/file, deterimes if it needs to add a file
 	list<Event> eventList;
 	vector<string> icalItems;
