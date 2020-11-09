@@ -1,5 +1,5 @@
 # Textfile-to-iCal
-This is currently a Beta Windows based program that will find a file based on a specified path, parse it and spit it back out as an importable .ics file for Google calendar and Thunderbird.
+This is currently an Alpha-Stage Windows based program that will find a file based on a specified path, parse it and spit it back out as an importable .ics file for Google calendar and Thunderbird.
 
 Has only been set up to work with Windows directories but with some tinkering could easily work with MacOS and Linux.
 
